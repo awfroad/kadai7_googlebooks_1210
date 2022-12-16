@@ -18,9 +18,8 @@ xamppを利用したブックマークアプリ
   まずYouTubeアプリで動画を引っ張ってくるところまで進めましたが、  
   検索するとすぐに1日の使用上限に達することが分かり、YouTubeアプリを断念。  
   次にAWSでamazonから本のDB作りに切り替えて挑戦しましたが、  
-  APIキー以外にもassociate IDが必要であり、  
-  登録に時間がかかりそうなため、これも断念。  
-  ようやくGoogle Books APIに辿り着きました。
+  APIキー以外にもassociate IDが必要であり、登録に時間がかかりそうなため、これも断念。  
+  ようやくGoogle Books APIに辿り着き、完成に至りました。
 - Google books APIとDBとの接続が難しかったです。  
   山崎先生のYouTubeとOpen AIを駆使しながら作りました。
 
